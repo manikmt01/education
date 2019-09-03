@@ -1,0 +1,490 @@
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+   /*header section start*/
+   .manu ul li a {
+   	font-size: 16px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+   /*header section end*/
+/*kids section start*/
+	.kids{
+	background: #fff;
+
+}
+.kids_always {
+    padding: 30px 0;
+}
+.kids_always h1 {
+    font-weight: 700;
+    font-size: 26px;
+}
+.scroll_always {
+    padding-bottom: 30px;
+}
+   /*kids section end*/
+/*giraffe section start*/
+.common_title h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+/*giraffe section end*/
+/*section same padding start*/
+.section_padding {
+    padding: 40px 0;
+}
+/*section same padding end*/
+/*about section start*/
+.about_post a img {
+    width: 25%;
+}
+.about {
+    margin-top: 30px;
+}
+/*about section end*/
+/*onkid content section start*/
+
+.onkid_content {
+    margin-top: 20px;
+}
+.onkid_circle img {
+    margin-bottom: 10px;
+}
+.onkid_circle h3, .onkid_circle h4 {
+    font-size: 20px !important;
+    letter-spacing: 1px;
+}
+/*onkid content section end*/
+/*memorable_sub section start*/
+.courses {
+    max-width: 260px !important;
+    margin: auto;
+}
+.cf_1, .cf_2 {
+    font-size: 14px;
+}
+.crs_body h2 {
+    font-size: 22px;
+    letter-spacing: 0px;
+    margin-bottom: 15px;
+}
+.crs_body {
+    padding: 15px 10px 0px 10px;
+    height: 150px;
+}
+
+.crs_img_2 {
+    top: 140px;
+    max-width: 18% !important;
+}
+.pluse_btn {
+    margin-top: 40px;
+}
+/*memorable_sub section end*/
+/*moments section start*/
+.moments_img {
+    margin-top: 20px;
+        text-align: center;
+}
+.moments_btn {
+    margin-top: 30px;
+}
+/*moments section end*/
+
+/*content section start*/
+.skill_all {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.skill_content {
+    margin-top: 20px;
+}
+.skill_content ul {
+    width: 123px;
+    margin: auto;
+}
+/* content section start*/
+ /*events and recent section start*/
+.events_item {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.events {
+    margin: 40px 0;
+}
+.recent_single_item {
+    margin-top: 30px;
+    text-align: center;
+}
+.recent_img {
+    margin-bottom: 30px;
+}
+.recent_text hr {
+    width: 80px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+ /*events and recent section end*/
+
+ /*events and recent section end*/
+
+.footer_top {
+    background-image: none;
+    background-color: #fff;
+    padding: 50px 0 50px 0;
+}
+/*footer top section end*/
+.footer_manu {
+    max-width: 490px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.copyright{
+    float: none !important;
+    text-align: center;
+}
+.nav-footer {
+    margin-right: 10px;
+}
+/*footer section end*/
+
+
+
+
+
+
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*header section start*/
+   .manu ul li a {
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.user{
+	text-align: center;
+}
+.dropdown-menu-custom {
+    left: 80px !important;
+}
+.dropdown-menu-custom_2 {
+    left: 130px;
+}
+   /*header section end*/
+   /*kids section start*/
+	.kids{
+	background: #fff;
+
+}
+.kids_always {
+    padding: 50px 0;
+}
+.kids_always h1 {
+    font-weight: 700;
+    font-size: 30px;
+}
+.scroll_always {
+    padding-bottom: 50px;
+}
+   /*kids section end*/
+/*giraffe section start*/
+.common_title h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+/*giraffe section end*/
+/*section same padding start*/
+.section_padding {
+    padding: 60px 0;
+}
+/*section same padding end*/
+/*about section start*/
+.about_post a img {
+    width: 25%;
+    margin-bottom: 50px;
+}
+/*about section end*/
+/*onkid content section start*/
+
+.onkid_circle h3, .onkid_circle h4 {
+    font-size: 22px !important;
+    letter-spacing: 1px;
+}
+/*onkid content section end*/
+/*memorable_sub section end*/
+.courses {
+    max-width: 55%;
+    margin: auto;
+}
+
+.cf_1, .cf_2 {
+    font-size: 14px;
+}
+/*memorable_sub section start*/
+/*moments section start*/
+.crs_img_2 {
+    top: 150px;
+    max-width: 19% !important;
+}
+.moments_btn {
+    margin-top: 50px;
+}
+/*moments section end*/
+/*content section start*/
+.skill_all {
+    margin: auto;
+    margin-bottom: 40px;
+}
+.skill_content {
+    margin-top: 20px;
+}
+
+/* content section start*/
+
+ /*events and recent section start*/
+.events_item {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.events {
+    margin: 40px 0;
+}
+.recent_single_item {
+    margin-top: 30px;
+    text-align: center;
+}
+.recent_img {
+    margin-bottom: 30px;
+}
+.recent_text hr {
+    width: 80px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+ /*events and recent section end*/
+
+.footer_top {
+    background-image: none;
+    background-color: #fff;
+    padding: 50px 0 50px 0;
+}
+/*footer top section end*/
+/*footer section start*/
+.footer_manu {
+    max-width: 490px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.copyright{
+    float: none !important;
+    text-align: center;
+}
+/*footer section end*/
+
+
+
+
+
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*header section start*/
+   .manu ul li a {
+    text-align: center;
+    margin-bottom: 5px;
+}
+.user{
+	text-align: center;
+}
+.dropdown-menu-custom {
+    left: 170px !important;
+}
+.dropdown-menu-custom_2 {
+    left: 210px;
+}
+   /*header section end*/
+   /*section same padding start*/
+   .section_padding {
+    padding: 80px 0;
+}
+   /*section same padding end*/
+   /*kids section start*/
+   .kids_always {
+    padding: 144px 0;
+}
+	.kids_always h1{
+		font-size: 40px;
+	}
+   /*kids section end*/
+/*aobut section start*/
+    .about_img {
+    margin-top: 60px;
+}
+.about_post a img {
+    width: 45%;
+}
+    /*aobut section end*/
+/*onkid content section start*/
+
+.onkid_circle h3, .onkid_circle h4 {
+    font-size: 22px !important;
+    letter-spacing: 1px;
+}
+/*onkid content section end*/
+/*memorable_sub section end*/
+.courses {
+    max-width: 80%;
+    margin: auto;
+}
+.crs_img_2 {
+    top: 145px;
+    max-width: 18% !important;
+}
+.cf_1, .cf_2 {
+    font-size: 14px;
+}
+/*memorable_sub section start*/
+/*moments section start*/
+.moments_img {
+    margin-top: 60px;
+}
+.moments_btn {
+    margin-top: 70px;
+}
+/*moments section end*/
+/*content section start*/
+.skill_all {
+    margin-bottom: 40px;
+}
+.skill_content {
+    margin-top: 20px;
+}
+
+/* content section start*/
+
+ /*events and recent section start*/
+.events_item {
+    width: 65%;
+    margin-bottom: 20px;
+}
+.events {
+    margin: 40px 0;
+}
+.recent_single_item {
+    width: 95%;
+    margin: auto;
+    margin-top: 40px;
+}
+ /*events and recent section end*/
+/*footer top section start*/
+.footer_top {
+    background-image: none;
+    background-color: #fff;
+    padding: 60px 0 60px 0;
+}
+/*footer top section end*/
+/*footer section start*/
+.footer_manu {
+   max-width: 490px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.copyright{
+    float: none !important;
+    text-align: center;
+}
+/*footer section end*/
+
+
+
+
+
+
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*kids section start*/
+    .kids_always {
+    padding: 206px 0;
+}
+    /*kids section end*/
+    /*aobut section start*/
+    .about_img {
+    margin-top: 25px;
+}
+    /*aobut section end*/
+
+/*memorable_sub section end*/
+.crs_header {
+    padding: 15px 10px 10px 5px;
+}
+.crs_img_2 {
+    right: 15px;
+    top: 115px;
+}
+.cf_1 {
+    padding-left: 10px;
+}
+.cf_2 {
+    padding-right: 10px;
+}
+.cf_1, .cf_2 {
+    font-size: 14px;
+}
+/*memorable_sub section start*/
+/*content section start*/
+.skill_all {
+    width: 62%;
+    margin-bottom: 40px;
+}
+.skill_content {
+    margin-top: 20px;
+}
+
+/*content section start*/
+ /*events and recent section start*/
+.events_item {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.events {
+    margin: 50px 0;
+}
+.recent_single_item {
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+ /*events and recent section end*/
+
+/*footer top section start*/
+.footer_top {
+    background-image: none;
+    background-color: #fff;
+    padding: 100px 0 100px 0;
+}
+/*footer top section end*/
+
+
+
+
+
+
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    
+    
+}
